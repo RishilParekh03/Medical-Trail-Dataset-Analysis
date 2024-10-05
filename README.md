@@ -9,9 +9,9 @@ This project analyzes the usage of Medication A and Medication B in a trial cond
 - The dosage units for Medication A and Medication B are different and cannot be directly converted.
 - A month is assumed to be 4.33 weeks, and a week is defined as 7 days.
 
-**For more details on the dataset, you can check the Medical Trial Dataset on Kaggle.**
+**For more details on the dataset and to download the dataset files, you can check the Medical Trial Dataset on Kaggle.**
 
-## Questions I have addressed:
+## Questions addressed:
 1. Total Monthly Medication Usage: What is the total number of units administered for each medication in each month across all patients?
 2. Patient Counts on Each Medication: How many patients received Medication A and Medication B from July to November?
 3. Average Monthly Dose per Patient: What is the average total monthly dose per patient for each medication from July to November?
